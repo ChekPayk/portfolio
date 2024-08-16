@@ -17,7 +17,7 @@
 ### 📁 Мои проекты
 
 <a href="https://github.com/ChekPayk/tests-e2e">tests-e2e</a>
-<br><a href="https://github.com/ChekPayk/tests-e2e">registry</a>
+<br><a href="https://github.com/ChekPayk/registry">registry</a>
 
 ---
 
